@@ -31,3 +31,30 @@ Welcome to KioskMarketPlace, a web application developed using Java Spring Boot 
 - Vue CLI
 - MySQL Server
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/KioskMarketPlace.git
+
+2. Navigate to the backend directory:
+   ```bash
+   cd backend
+3. Run the Spring Boot application:
+   ```bash
+   mvn spring-boot:run
+
+4. Navigate to the frontend directory:
+   ```bash
+   cd ../frontend
+
+5. Install dependencies:
+   ```bash
+   npm install
+
+6. Run the Vue.js application:
+   ```bash
+   npm run serve
+
+7. Access the application at http://localhost:8080 in your web browser.
