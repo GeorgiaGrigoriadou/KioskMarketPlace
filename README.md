@@ -58,3 +58,5 @@ Welcome to KioskMarketPlace, a web application developed using Java Spring Boot 
    npm run serve
 
 7. Access the application at http://localhost:8080 in your web browser.
+
+**Note: Since the database is local, each developer will need to set up their own local MySQL instance with appropriate schema and data for testing purposes.**
