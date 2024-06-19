@@ -19,6 +19,32 @@ Welcome to KioskMarketPlace, a web application developed using Java Spring Boot 
 - **Frontend**:
   - Vue.js for dynamic user interfaces
   - Bootstrap for responsive and mobile-first design
+ 
+### Summary
+
+- **Framework**: Spring Boot
+  - `spring-boot-starter-parent`
+  - `spring-boot-starter-data-jpa`
+  - `spring-boot-starter-web`
+  - `spring-boot-devtools`
+  - `spring-boot-starter-validation`
+  - `spring-boot-starter-test`
+
+- **Database**: MySQL
+  - **MySQL Connector/J**: JDBC driver for connecting to MySQL databases
+
+- **Java Version**: 17
+
+- **Utilities**:
+  - **Lombok**: Reduces boilerplate code by generating getters, setters, constructors, etc., using annotations.
+  - **Java Faker**: Generates fake data for testing and development.
+
+- **Validation**: Javax Validation API
+  - Provides the standard API for Java Bean Validation.
+
+- **Build Tool**: Maven
+  - **Spring Boot Maven Plugin**: Facilitates packaging and running Spring Boot applications.
+  - **Maven Compiler Plugin**: Specifies source and target Java versions for compilation.
 
 ## Getting Started
 
