@@ -4,7 +4,6 @@ Welcome to KioskMarketPlace, a web application developed using Java Spring Boot 
 
 ## Features
 
-- **User Authentication**: Secure user authentication system allowing users to register, login, and manage their accounts securely.
 - **Product Listings**: Browse through a wide range of products listed by various vendors.
 - **Search and Filter**: Easily search for products and filter results based on categories, prices, etc.
 - **Vendor Management**: Vendors can register, login, and manage their product listings and orders.
