@@ -16,7 +16,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/user")
 public class UserController {
-    @Autowirelist, findd
+    @Autowired
     private UserService userService;
 
     @Autowired
