@@ -6,7 +6,7 @@ Welcome to KioskMarketPlace, a web application developed using Java Spring Boot 
 
 - **Product Listings**: Browse through a wide range of products listed by various vendors.
 - **Search and Filter**: Easily search for products and filter results based on categories, prices, etc.
-- **Vendor Management**: Vendors can register, login, and manage their product listings and orders.
+- **Vendor Management**: Vendors can manage their product listings and orders.
 - **Order Processing**: Seamless order processing system for users to purchase products and vendors to manage orders.
 
 ## Technologies Used
